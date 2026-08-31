@@ -1,4 +1,4 @@
-# Omogeneizzazione dei generi musicali nei testi generati da un LLM
+# L'impronta semantica degli LLM: Analisi comparativa tra musica reale e artificiale
 
 Progetto per il corso **Tecnologie dei dati e del linguaggio** (Prof. Alfio Ferrara — Dott. Sergio Picascia, Dott.ssa Elisabetta Rocchetti), Studi Umanistici.
 Sviluppo della **Traccia 3 — "Stereotipi, bias e rappresentazioni culturali"**, applicata al dominio musicale.
